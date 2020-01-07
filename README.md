@@ -2,8 +2,8 @@
 
 ## Members
 
-- Deka Auliya Akbar (da2897)
-- Yuting Wang (yw3167)
+- Deka Auliya Akbar 
+- Yuting Wang 
 
 ## Source Files and Saved Models
 
