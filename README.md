@@ -1,4 +1,4 @@
-# 4995 Applied Deep Learning Final Project Fall 2019
+# Applied Deep Learning Final Project Fall 2019
 
 ## Members
 
