@@ -26,3 +26,7 @@
 ## How to Run the code
 
 Since the codes are run in collaboratory, make sure you have accesses to the files
+
+## Youtube video
+https://youtu.be/jJYXM844D5o
+If you have any questions, feel free to comment.
