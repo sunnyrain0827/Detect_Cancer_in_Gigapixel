@@ -1,9 +1,21 @@
-# Applied Deep Learning Final Project Fall 2019
+# Detecting Cancer in Gigapixel Medical Images
 
-## Members
+## Background:
+The problem we are addressing is the manual detection of cancer metastases. Metastases are secondary cancer growths that occur when cancer cells spread from the primary tumor to other parts of the body.
+Because the pathology images are very high-resolution, reaching gigapixel sizes. the tumors can be relatively small. Detecting these metastases manually is not only time-consuming but also prone to human error. 
+Therefore, this is where automated detection comes to the rescue. And we aim to improve the accuracy and efficiency of cancer diagnosis.
 
-- Deka Auliya Akbar 
-- Yuting Wang 
+## Data Pipeline:
+The data pipeline includes five steps:
+1. Initial data analysis
+2. Data preprocessing
+3. Modeling
+4. Data post processing
+5. Prediction and evaluation
+
+
+
+# How to use:
 
 ## Source Files and Saved Models
 
@@ -26,6 +38,11 @@
 ## How to Run the code
 
 Since the codes are run in collaboratory, make sure you have accesses to the files
+
+## Contributions
+
+- Deka Auliya Akbar 
+- Yuting Wang 
 
 ## Youtube video
 https://youtu.be/jJYXM844D5o
