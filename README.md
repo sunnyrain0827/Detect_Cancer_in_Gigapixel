@@ -13,6 +13,9 @@ The data pipeline includes five steps:
 4. Data post processing
 5. Prediction and evaluation
 
+## Challenges:
+1. Training and evaluating our models was challenging because of the large number of patches and the tumor class imbalance.
+2. Another major challenge is trying to extract features that are meaningful from a clinical point of view. 
 
 
 # How to use:
